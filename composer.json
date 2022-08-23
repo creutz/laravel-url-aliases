@@ -1,5 +1,5 @@
 {
-    "name": "fomvasss/laravel-url-aliases",
+    "name": "creutz/laravel-url-aliases",
     "description": "Use url-aliases in Laravel project",
     "type": "composer-package",
     "keywords": [
